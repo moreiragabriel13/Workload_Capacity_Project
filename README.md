@@ -36,6 +36,10 @@ The dashboard also includes visual charts comparing incoming versus completed vo
 - **Configurable Processing Times:** Adjust average handling times for each task category.
 - **Performance Monitoring:** Compare incoming and completed volumes to understand changes in operational backlog.
 
+## Data
+
+The data used in this file is not based on a real data set. The data was generated via synthetic data by AI.
+
 ## Workbook Structure
 
 The workbook consists of six interconnected worksheets:
